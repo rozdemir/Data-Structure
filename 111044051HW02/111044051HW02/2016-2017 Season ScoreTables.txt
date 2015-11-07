@@ -1,0 +1,62 @@
+Galatasaray A.S : 6  vs  4 : Fenerbahce  21.2.2016
+
+Galatasaray A.S : 1  vs  2 : Real Madrid  28.2.2016
+
+Galatasaray A.S : 5  vs  7 : Barcelona  5.2.2016
+
+Galatasaray A.S : 8  vs  5 : Beşiktaş A.Ş  12.3.2016
+
+Galatasaray A.S : 9  vs  8 : Trabzonspor  19.3.2016
+
+Fenerbahce : 7  vs  0 : Galatasaray A.S  21.2.2016
+
+Fenerbahce : 9  vs  4 : Real Madrid  28.2.2016
+
+Fenerbahce : 7  vs  5 : Barcelona  5.2.2016
+
+Fenerbahce : 0  vs  8 : Beşiktaş A.Ş  12.3.2016
+
+Fenerbahce : 2  vs  2 : Trabzonspor  19.3.2016
+
+Real Madrid : 3  vs  9 : Galatasaray A.S  21.2.2016
+
+Real Madrid : 0  vs  2 : Fenerbahce  28.2.2016
+
+Real Madrid : 0  vs  0 : Barcelona  5.2.2016
+
+Real Madrid : 4  vs  2 : Beşiktaş A.Ş  12.3.2016
+
+Real Madrid : 9  vs  1 : Trabzonspor  19.3.2016
+
+Barcelona : 5  vs  1 : Galatasaray A.S  21.2.2016
+
+Barcelona : 2  vs  8 : Fenerbahce  28.2.2016
+
+Barcelona : 9  vs  4 : Real Madrid  5.2.2016
+
+Barcelona : 1  vs  4 : Beşiktaş A.Ş  12.3.2016
+
+Barcelona : 9  vs  9 : Trabzonspor  19.3.2016
+
+Beşiktaş A.Ş : 2  vs  7 : Galatasaray A.S  21.2.2016
+
+Beşiktaş A.Ş : 5  vs  8 : Fenerbahce  28.2.2016
+
+Beşiktaş A.Ş : 8  vs  6 : Real Madrid  5.2.2016
+
+Beşiktaş A.Ş : 7  vs  5 : Barcelona  12.3.2016
+
+Beşiktaş A.Ş : 3  vs  7 : Trabzonspor  19.3.2016
+
+Trabzonspor : 6  vs  6 : Galatasaray A.S  21.2.2016
+
+Trabzonspor : 0  vs  3 : Fenerbahce  28.2.2016
+
+Trabzonspor : 6  vs  3 : Real Madrid  5.2.2016
+
+Trabzonspor : 6  vs  9 : Barcelona  12.3.2016
+
+Trabzonspor : 5  vs  1 : Beşiktaş A.Ş  19.3.2016
+
+Trabzonspor : 7  vs  9 : Trabzonspor  26.3.2016
+

@@ -1,0 +1,62 @@
+Galatasaray A.S : 8  vs  7 : Fenerbahce  21.2.2020
+
+Galatasaray A.S : 3  vs  1 : Real Madrid  28.2.2020
+
+Galatasaray A.S : 3  vs  0 : Barcelona  5.2.2020
+
+Galatasaray A.S : 7  vs  3 : Beşiktaş A.Ş  12.3.2020
+
+Galatasaray A.S : 4  vs  4 : Trabzonspor  19.3.2020
+
+Fenerbahce : 8  vs  5 : Galatasaray A.S  21.2.2020
+
+Fenerbahce : 8  vs  3 : Real Madrid  28.2.2020
+
+Fenerbahce : 0  vs  5 : Barcelona  5.2.2020
+
+Fenerbahce : 3  vs  6 : Beşiktaş A.Ş  12.3.2020
+
+Fenerbahce : 6  vs  9 : Trabzonspor  19.3.2020
+
+Real Madrid : 1  vs  4 : Galatasaray A.S  21.2.2020
+
+Real Madrid : 5  vs  8 : Fenerbahce  28.2.2020
+
+Real Madrid : 7  vs  1 : Barcelona  5.2.2020
+
+Real Madrid : 2  vs  5 : Beşiktaş A.Ş  12.3.2020
+
+Real Madrid : 9  vs  5 : Trabzonspor  19.3.2020
+
+Barcelona : 5  vs  3 : Galatasaray A.S  21.2.2020
+
+Barcelona : 9  vs  0 : Fenerbahce  28.2.2020
+
+Barcelona : 6  vs  1 : Real Madrid  5.2.2020
+
+Barcelona : 5  vs  4 : Beşiktaş A.Ş  12.3.2020
+
+Barcelona : 2  vs  3 : Trabzonspor  19.3.2020
+
+Beşiktaş A.Ş : 9  vs  6 : Galatasaray A.S  21.2.2020
+
+Beşiktaş A.Ş : 5  vs  6 : Fenerbahce  28.2.2020
+
+Beşiktaş A.Ş : 7  vs  4 : Real Madrid  5.2.2020
+
+Beşiktaş A.Ş : 4  vs  1 : Barcelona  12.3.2020
+
+Beşiktaş A.Ş : 0  vs  5 : Trabzonspor  19.3.2020
+
+Trabzonspor : 2  vs  5 : Galatasaray A.S  21.2.2020
+
+Trabzonspor : 0  vs  4 : Fenerbahce  28.2.2020
+
+Trabzonspor : 8  vs  6 : Real Madrid  5.2.2020
+
+Trabzonspor : 8  vs  4 : Barcelona  12.3.2020
+
+Trabzonspor : 4  vs  9 : Beşiktaş A.Ş  19.3.2020
+
+Trabzonspor : 5  vs  9 : Trabzonspor  26.3.2020
+

@@ -1,0 +1,86 @@
+galatasaray : 0  vs  5 : fenerbahce  21.2.2015
+
+galatasaray : 6  vs  0 : realmadrid  28.2.2015
+
+galatasaray : 7  vs  7 : barcelona  5.2.2015
+
+galatasaray : 3  vs  1 : besiktas  12.3.2015
+
+galatasaray : 0  vs  2 : trabzon  19.3.2015
+
+galatasaray : 1  vs  4 : Chelsea  26.3.2015
+
+fenerbahce : 7  vs  2 : galatasaray  21.2.2015
+
+fenerbahce : 8  vs  0 : realmadrid  28.2.2015
+
+fenerbahce : 2  vs  3 : barcelona  5.2.2015
+
+fenerbahce : 0  vs  6 : besiktas  12.3.2015
+
+fenerbahce : 9  vs  2 : trabzon  19.3.2015
+
+fenerbahce : 0  vs  5 : Chelsea  26.3.2015
+
+realmadrid : 6  vs  7 : galatasaray  21.2.2015
+
+realmadrid : 4  vs  3 : fenerbahce  28.2.2015
+
+realmadrid : 4  vs  6 : barcelona  5.2.2015
+
+realmadrid : 5  vs  4 : besiktas  12.3.2015
+
+realmadrid : 5  vs  4 : trabzon  19.3.2015
+
+realmadrid : 4  vs  5 : Chelsea  26.3.2015
+
+barcelona : 0  vs  1 : galatasaray  21.2.2015
+
+barcelona : 8  vs  2 : fenerbahce  28.2.2015
+
+barcelona : 1  vs  8 : realmadrid  5.2.2015
+
+barcelona : 2  vs  2 : besiktas  12.3.2015
+
+barcelona : 6  vs  9 : trabzon  19.3.2015
+
+barcelona : 7  vs  4 : Chelsea  26.3.2015
+
+besiktas : 2  vs  7 : galatasaray  21.2.2015
+
+besiktas : 9  vs  2 : fenerbahce  28.2.2015
+
+besiktas : 5  vs  5 : realmadrid  5.2.2015
+
+besiktas : 2  vs  5 : barcelona  12.3.2015
+
+besiktas : 5  vs  6 : trabzon  19.3.2015
+
+besiktas : 7  vs  5 : Chelsea  26.3.2015
+
+trabzon : 5  vs  6 : galatasaray  21.2.2015
+
+trabzon : 3  vs  1 : fenerbahce  28.2.2015
+
+trabzon : 6  vs  0 : realmadrid  5.2.2015
+
+trabzon : 2  vs  2 : barcelona  12.3.2015
+
+trabzon : 9  vs  1 : besiktas  19.3.2015
+
+trabzon : 1  vs  7 : Chelsea  26.3.2015
+
+Chelsea : 3  vs  4 : galatasaray  21.2.2015
+
+Chelsea : 6  vs  0 : fenerbahce  28.2.2015
+
+Chelsea : 5  vs  6 : realmadrid  5.2.2015
+
+Chelsea : 5  vs  4 : barcelona  12.3.2015
+
+Chelsea : 9  vs  1 : besiktas  19.3.2015
+
+Chelsea : 9  vs  0 : trabzon  26.3.2015
+
+Chelsea : 1  vs  3 : Chelsea  3.3.2015
+

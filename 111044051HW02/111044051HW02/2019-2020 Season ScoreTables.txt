@@ -1,0 +1,62 @@
+Galatasaray A.S : 4  vs  5 : Fenerbahce  21.2.2019
+
+Galatasaray A.S : 8  vs  0 : Real Madrid  28.2.2019
+
+Galatasaray A.S : 2  vs  3 : Barcelona  5.2.2019
+
+Galatasaray A.S : 5  vs  1 : Beşiktaş A.Ş  12.3.2019
+
+Galatasaray A.S : 9  vs  3 : Trabzonspor  19.3.2019
+
+Fenerbahce : 4  vs  4 : Galatasaray A.S  21.2.2019
+
+Fenerbahce : 9  vs  2 : Real Madrid  28.2.2019
+
+Fenerbahce : 0  vs  6 : Barcelona  5.2.2019
+
+Fenerbahce : 3  vs  4 : Beşiktaş A.Ş  12.3.2019
+
+Fenerbahce : 0  vs  6 : Trabzonspor  19.3.2019
+
+Real Madrid : 5  vs  9 : Galatasaray A.S  21.2.2019
+
+Real Madrid : 0  vs  3 : Fenerbahce  28.2.2019
+
+Real Madrid : 8  vs  9 : Barcelona  5.2.2019
+
+Real Madrid : 2  vs  3 : Beşiktaş A.Ş  12.3.2019
+
+Real Madrid : 1  vs  6 : Trabzonspor  19.3.2019
+
+Barcelona : 9  vs  4 : Galatasaray A.S  21.2.2019
+
+Barcelona : 6  vs  8 : Fenerbahce  28.2.2019
+
+Barcelona : 2  vs  5 : Real Madrid  5.2.2019
+
+Barcelona : 4  vs  8 : Beşiktaş A.Ş  12.3.2019
+
+Barcelona : 6  vs  7 : Trabzonspor  19.3.2019
+
+Beşiktaş A.Ş : 9  vs  5 : Galatasaray A.S  21.2.2019
+
+Beşiktaş A.Ş : 3  vs  1 : Fenerbahce  28.2.2019
+
+Beşiktaş A.Ş : 3  vs  3 : Real Madrid  5.2.2019
+
+Beşiktaş A.Ş : 3  vs  2 : Barcelona  12.3.2019
+
+Beşiktaş A.Ş : 5  vs  0 : Trabzonspor  19.3.2019
+
+Trabzonspor : 8  vs  6 : Galatasaray A.S  21.2.2019
+
+Trabzonspor : 8  vs  7 : Fenerbahce  28.2.2019
+
+Trabzonspor : 1  vs  8 : Real Madrid  5.2.2019
+
+Trabzonspor : 2  vs  9 : Barcelona  12.3.2019
+
+Trabzonspor : 5  vs  0 : Beşiktaş A.Ş  19.3.2019
+
+Trabzonspor : 0  vs  8 : Trabzonspor  26.3.2019
+

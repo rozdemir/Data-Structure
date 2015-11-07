@@ -1,0 +1,15 @@
+realmadrid
+F.Perez 234565532432 03.03.1945 Ispanya
+C.Ancolotti 123890532 04.04.1960 Italya
+5
+C.Ronaldo 3453765843 05.07.1992 Portekiz
+I.Casillas 32546756423 06.07.1992 Ispanya
+S.Ramos 345643242 07.07.1992 Ispanya
+Marcelo 324546354 08.07.1992 Brezilya
+L.Modric 23456456 09.07.1992 Hýrvatistan
+G.Bale 23456323 10.07.1992 Ingiltere
+T.Kroos 2345675 11.07.1992 Almanya
+Varane 23545645 12.07.1992 Fransa
+R.Arbeloa 23456754 13.07.1992 Ispanya
+Pepe 234567563 14.07.1992 Portekiz
+K.Benzama 235465768 15.07.1992 Fransa

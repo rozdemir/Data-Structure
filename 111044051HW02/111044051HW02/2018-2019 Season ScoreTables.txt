@@ -1,0 +1,62 @@
+Galatasaray A.S : 0  vs  9 : Fenerbahce  21.2.2018
+
+Galatasaray A.S : 5  vs  5 : Real Madrid  28.2.2018
+
+Galatasaray A.S : 7  vs  3 : Barcelona  5.2.2018
+
+Galatasaray A.S : 5  vs  5 : Beşiktaş A.Ş  12.3.2018
+
+Galatasaray A.S : 7  vs  4 : Trabzonspor  19.3.2018
+
+Fenerbahce : 5  vs  5 : Galatasaray A.S  21.2.2018
+
+Fenerbahce : 6  vs  8 : Real Madrid  28.2.2018
+
+Fenerbahce : 6  vs  3 : Barcelona  5.2.2018
+
+Fenerbahce : 7  vs  7 : Beşiktaş A.Ş  12.3.2018
+
+Fenerbahce : 0  vs  4 : Trabzonspor  19.3.2018
+
+Real Madrid : 0  vs  9 : Galatasaray A.S  21.2.2018
+
+Real Madrid : 4  vs  0 : Fenerbahce  28.2.2018
+
+Real Madrid : 7  vs  0 : Barcelona  5.2.2018
+
+Real Madrid : 0  vs  0 : Beşiktaş A.Ş  12.3.2018
+
+Real Madrid : 5  vs  3 : Trabzonspor  19.3.2018
+
+Barcelona : 8  vs  6 : Galatasaray A.S  21.2.2018
+
+Barcelona : 4  vs  5 : Fenerbahce  28.2.2018
+
+Barcelona : 6  vs  3 : Real Madrid  5.2.2018
+
+Barcelona : 9  vs  8 : Beşiktaş A.Ş  12.3.2018
+
+Barcelona : 9  vs  2 : Trabzonspor  19.3.2018
+
+Beşiktaş A.Ş : 9  vs  6 : Galatasaray A.S  21.2.2018
+
+Beşiktaş A.Ş : 4  vs  0 : Fenerbahce  28.2.2018
+
+Beşiktaş A.Ş : 7  vs  0 : Real Madrid  5.2.2018
+
+Beşiktaş A.Ş : 9  vs  9 : Barcelona  12.3.2018
+
+Beşiktaş A.Ş : 0  vs  9 : Trabzonspor  19.3.2018
+
+Trabzonspor : 6  vs  6 : Galatasaray A.S  21.2.2018
+
+Trabzonspor : 4  vs  7 : Fenerbahce  28.2.2018
+
+Trabzonspor : 3  vs  5 : Real Madrid  5.2.2018
+
+Trabzonspor : 0  vs  4 : Barcelona  12.3.2018
+
+Trabzonspor : 5  vs  7 : Beşiktaş A.Ş  19.3.2018
+
+Trabzonspor : 8  vs  3 : Trabzonspor  26.3.2018
+

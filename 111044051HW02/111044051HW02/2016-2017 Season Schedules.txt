@@ -1,0 +1,62 @@
+Galatasaray A.S vs Fenerbahce   Match date  21.2.2016
+
+Galatasaray A.S vs Real Madrid   Match date  28.2.2016
+
+Galatasaray A.S vs Barcelona   Match date  5.2.2016
+
+Galatasaray A.S vs Beşiktaş A.Ş   Match date  12.3.2016
+
+Galatasaray A.S vs Trabzonspor   Match date  19.3.2016
+
+Fenerbahce vs Galatasaray A.S   Match date  21.2.2016
+
+Fenerbahce vs Real Madrid   Match date  28.2.2016
+
+Fenerbahce vs Barcelona   Match date  5.2.2016
+
+Fenerbahce vs Beşiktaş A.Ş   Match date  12.3.2016
+
+Fenerbahce vs Trabzonspor   Match date  19.3.2016
+
+Real Madrid vs Galatasaray A.S   Match date  21.2.2016
+
+Real Madrid vs Fenerbahce   Match date  28.2.2016
+
+Real Madrid vs Barcelona   Match date  5.2.2016
+
+Real Madrid vs Beşiktaş A.Ş   Match date  12.3.2016
+
+Real Madrid vs Trabzonspor   Match date  19.3.2016
+
+Barcelona vs Galatasaray A.S   Match date  21.2.2016
+
+Barcelona vs Fenerbahce   Match date  28.2.2016
+
+Barcelona vs Real Madrid   Match date  5.2.2016
+
+Barcelona vs Beşiktaş A.Ş   Match date  12.3.2016
+
+Barcelona vs Trabzonspor   Match date  19.3.2016
+
+Beşiktaş A.Ş vs Galatasaray A.S   Match date  21.2.2016
+
+Beşiktaş A.Ş vs Fenerbahce   Match date  28.2.2016
+
+Beşiktaş A.Ş vs Real Madrid   Match date  5.2.2016
+
+Beşiktaş A.Ş vs Barcelona   Match date  12.3.2016
+
+Beşiktaş A.Ş vs Trabzonspor   Match date  19.3.2016
+
+Trabzonspor vs Galatasaray A.S   Match date  21.2.2016
+
+Trabzonspor vs Fenerbahce   Match date  28.2.2016
+
+Trabzonspor vs Real Madrid   Match date  5.2.2016
+
+Trabzonspor vs Barcelona   Match date  12.3.2016
+
+Trabzonspor vs Beşiktaş A.Ş   Match date  19.3.2016
+
+Trabzonspor vs Trabzonspor   Match date  26.3.2016
+

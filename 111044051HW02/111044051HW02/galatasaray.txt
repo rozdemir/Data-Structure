@@ -1,0 +1,15 @@
+galatasaray
+D.Yarsuvat 123234453 01.01.1940 Turkiye
+H.Hamzaoglu 123464356 01.01.1960 Turkiye
+1
+Muslera 12673490 01.01.1990 Uruguay
+Sabri 12673491 02.01.1990 Türkiye
+Chedjoe 12673493 03.01.1990 Afrika
+Koray 12673494 04.01.1990 Türkiye
+A.Telles 12673495 05.01.1990 Brezilya
+Melo 12673496 06.01.1990 Brezilya
+Selcuk 12673497 07.01.1990 Türkiye
+Emre 12673498 08.01.1990 Türkiye
+Sneijder 12673499 09.01.1990 Hollanda
+Burak 126734910 10.01.1990 Türkiye
+Umut 126734911 11.01.1990 Türkiye

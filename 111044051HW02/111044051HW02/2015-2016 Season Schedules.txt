@@ -1,0 +1,86 @@
+galatasaray vs fenerbahce   Match date  21.2.2015
+
+galatasaray vs realmadrid   Match date  28.2.2015
+
+galatasaray vs barcelona   Match date  5.2.2015
+
+galatasaray vs besiktas   Match date  12.3.2015
+
+galatasaray vs trabzon   Match date  19.3.2015
+
+galatasaray vs Chelsea   Match date  26.3.2015
+
+fenerbahce vs galatasaray   Match date  21.2.2015
+
+fenerbahce vs realmadrid   Match date  28.2.2015
+
+fenerbahce vs barcelona   Match date  5.2.2015
+
+fenerbahce vs besiktas   Match date  12.3.2015
+
+fenerbahce vs trabzon   Match date  19.3.2015
+
+fenerbahce vs Chelsea   Match date  26.3.2015
+
+realmadrid vs galatasaray   Match date  21.2.2015
+
+realmadrid vs fenerbahce   Match date  28.2.2015
+
+realmadrid vs barcelona   Match date  5.2.2015
+
+realmadrid vs besiktas   Match date  12.3.2015
+
+realmadrid vs trabzon   Match date  19.3.2015
+
+realmadrid vs Chelsea   Match date  26.3.2015
+
+barcelona vs galatasaray   Match date  21.2.2015
+
+barcelona vs fenerbahce   Match date  28.2.2015
+
+barcelona vs realmadrid   Match date  5.2.2015
+
+barcelona vs besiktas   Match date  12.3.2015
+
+barcelona vs trabzon   Match date  19.3.2015
+
+barcelona vs Chelsea   Match date  26.3.2015
+
+besiktas vs galatasaray   Match date  21.2.2015
+
+besiktas vs fenerbahce   Match date  28.2.2015
+
+besiktas vs realmadrid   Match date  5.2.2015
+
+besiktas vs barcelona   Match date  12.3.2015
+
+besiktas vs trabzon   Match date  19.3.2015
+
+besiktas vs Chelsea   Match date  26.3.2015
+
+trabzon vs galatasaray   Match date  21.2.2015
+
+trabzon vs fenerbahce   Match date  28.2.2015
+
+trabzon vs realmadrid   Match date  5.2.2015
+
+trabzon vs barcelona   Match date  12.3.2015
+
+trabzon vs besiktas   Match date  19.3.2015
+
+trabzon vs Chelsea   Match date  26.3.2015
+
+Chelsea vs galatasaray   Match date  21.2.2015
+
+Chelsea vs fenerbahce   Match date  28.2.2015
+
+Chelsea vs realmadrid   Match date  5.2.2015
+
+Chelsea vs barcelona   Match date  12.3.2015
+
+Chelsea vs besiktas   Match date  19.3.2015
+
+Chelsea vs trabzon   Match date  26.3.2015
+
+Chelsea vs Chelsea   Match date  3.3.2015
+

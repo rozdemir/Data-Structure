@@ -1,0 +1,6 @@
+Galatasaray A.S : 6  vs  9 : Trabzonspor
+Fenerbahce : 2  vs  3 : Beşiktaş A.Ş
+Real Madrid : 6  vs  9 : Barcelona
+Galatasaray A.S : 2  vs  9 : Fenerbahce
+Real Madrid : 6  vs  3 : Barcelona
+Beşiktaş A.Ş : 8  vs  5 : Trabzonspor
